@@ -1,0 +1,7 @@
+.Cardd {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    border: 1px solid transparent;
+    font-weight: 900;
+}

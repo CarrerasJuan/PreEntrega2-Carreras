@@ -1,0 +1,14 @@
+.allNav {
+    width: 95vw;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgb(60, 20, 133);
+}
+
+.barra {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
